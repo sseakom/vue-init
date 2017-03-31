@@ -1,0 +1,9 @@
+{
+    "name": "vue-init",
+    "version": "1.0.3",
+    "description": "vue-init",
+    "author": "sseakom",
+    "scripts": {
+        "init": "node bin/init.js"
+    }
+}

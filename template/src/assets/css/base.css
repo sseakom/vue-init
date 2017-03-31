@@ -1,0 +1,177 @@
+@media only screen and (max-width: 1080px),
+only screen and (max-device-width:1080px) {
+    html,
+    body {
+        font-size: 28.799999999999997px !important;
+    }
+}
+
+@media only screen and (max-width: 960px),
+only screen and (max-device-width:960px) {
+    html,
+    body {
+        font-size: 25.6px !important;
+    }
+}
+
+@media only screen and (max-width: 800px),
+only screen and (max-device-width:800px) {
+    html,
+    body {
+        font-size: 21.333333333333332px !important;
+    }
+}
+
+@media only screen and (max-width: 750px),
+only screen and (max-device-width:750px) {
+    html,
+    body {
+        font-size: 20px !important;
+    }
+}
+
+@media only screen and (max-width: 720px),
+only screen and (max-device-width:720px) {
+    html,
+    body {
+        font-size: 19.2px !important;
+    }
+}
+
+@media only screen and (max-width: 640px),
+only screen and (max-device-width:640px) {
+    html,
+    body {
+        font-size: 17.066666666666666px !important;
+    }
+}
+
+@media only screen and (max-width: 600px),
+only screen and (max-device-width:600px) {
+    html,
+    body {
+        font-size: 16px !important;
+    }
+}
+
+@media only screen and (max-width: 540px),
+only screen and (max-device-width:540px) {
+    html,
+    body {
+        font-size: 14.399999999999999px !important;
+    }
+}
+
+@media only screen and (max-width: 480px),
+only screen and (max-device-width:480px) {
+    html,
+    body {
+        font-size: 12.8px !important;
+    }
+}
+
+@media only screen and (max-width: 414px),
+only screen and (max-device-width:414px) {
+    html,
+    body {
+        font-size: 11.040000000000001px !important;
+    }
+}
+
+@media only screen and (max-width: 400px),
+only screen and (max-device-width:400px) {
+    html,
+    body {
+        font-size: 10.666666666666666px !important;
+    }
+}
+
+@media only screen and (max-width: 375px),
+only screen and (max-device-width:375px) {
+    html,
+    body {
+        font-size: 10px !important;
+    }
+}
+
+@media only screen and (max-width: 360px),
+only screen and (max-device-width:360px) {
+    html,
+    body {
+        font-size: 9.6px !important;
+    }
+}
+
+@media only screen and (max-width: 320px),
+only screen and (max-device-width:320px) {
+    html,
+    body {
+        font-size: 8.533333333333333px !important;
+    }
+}
+
+@media only screen and (max-width: 240px),
+only screen and (max-device-width:240px) {
+    html,
+    body {
+        font-size: 6.4px !important;
+    }
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: #FFFFFF;
+}
+
+html,
+body {
+    background-color: #f4f5f9;
+    font-family: '微软雅黑';
+    overflow-x: hidden;
+    height: 100%;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+input::-webkit-search-cancel-button {
+    display: none !important;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+select,
+input {
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    /*background: none !important;*/
+    outline: none !important;
+    border: none !important;
+    border-color: #ffffff !important;
+}
+
+a {
+    text-decoration: none;
+    outline: none !important;
+}
+
+.clear {
+    clear: both;
+}
+
+.hide {
+    display: none;
+}
+
+.scroll {
+    overflow: scroll
+}
+
+
+/* IOS 点击背景效果取消 */
+
+.none {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
