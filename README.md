@@ -12,7 +12,7 @@ $ npm install vue-init
 ``` bash
 $ node ./node_modules/vue-init/bin/init.js
 ```
-
+### [repository](https://github.com/sseakom/vue-init)
 
 ### License
 
