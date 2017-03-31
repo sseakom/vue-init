@@ -1,4 +1,4 @@
-#vue-init [![npm package](https://img.shields.io/npm/v/vue-cli.svg)](https://www.npmjs.com/package/vue-init)
+#vue-init [![npm package](https://img.shields.io/npm/v/vue-init.svg)](https://www.npmjs.com/package/vue-init)
 
 > A simple template for Vue2 projects.
 
